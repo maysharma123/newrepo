@@ -2,3 +2,6 @@ my testpage
 
 this is my pen 
 this is my earburds
+
+
+today is my second devops class or we want to lean devops
